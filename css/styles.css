@@ -488,4 +488,9 @@ img {
     width: 40px;
     height: 40px;
 }
+
+.footer-social-link .social-link:hover,
+.footer-social-link .social-link:focus {
+    background-color: var(--green);
+}
 /* #endregion */
