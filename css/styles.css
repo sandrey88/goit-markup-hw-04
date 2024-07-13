@@ -131,7 +131,7 @@ img {
 }
 
 .social-icon {
-    fill: var(--white);
+    fill: var(--cloud);
 }
 
 .social-link {
@@ -148,7 +148,7 @@ img {
 
 .social-link:hover,
 .social-link:focus {
-    background-color: var(--green);
+    background-color: var(--ocean);
 }
 /* #endregion */
 
@@ -487,9 +487,5 @@ img {
 .footer-social-link {
     width: 40px;
     height: 40px;
-}
-
-.footer-social-link .social-icon {
-    fill: var(--cloud);
 }
 /* #endregion */
